@@ -1,0 +1,45 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Java OCP",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which method is used to synchronize access to an object in Java?",
+      "correct_answer": "synchronized",
+      "incorrect_answers": ["lock", "wait", "notify"]
+    },
+    {
+      "category": "Java OCP",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the purpose of the 'transient' keyword in Java?",
+      "correct_answer": "To prevent a variable from being serialized",
+      "incorrect_answers": ["To make a variable immutable", "To declare a constant", "To mark a variable as final"]
+    },
+    {
+      "category": "Java OCP",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a valid access modifier in Java?",
+      "correct_answer": "package-private",
+      "incorrect_answers": ["public", "protected", "private"]
+    },
+    {
+      "category": "Java OCP",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the output of 'System.out.println(1 + 2 + \"3\" + 4 + 5);' in Java?",
+      "correct_answer": "12345",
+      "incorrect_answers": ["15", "1239", "345"]
+    },
+    {
+      "category": "Java OCP",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which design pattern is used to ensure only one instance of a class is created in Java?",
+      "correct_answer": "Singleton",
+      "incorrect_answers": ["Factory", "Builder", "Prototype"]
+    }
+  ]
+}
